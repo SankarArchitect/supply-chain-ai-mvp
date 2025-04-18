@@ -33,3 +33,5 @@ This MVP is part of the **Luxestrive AI** ecosystem, focused on fast, scalable A
 
 ## 🔮 Future Enhancements
 
+🚀 Just published my Supply Chain AI MVP as featured work on Upwork! Designed the full stack using React, Firebase, Stripe, and AI APIs. 
+View it here → https://www.upwork.com/freelancers/sankararchitect
